@@ -7,9 +7,8 @@ At Motrix, we are dedicated to advancing the capture and generation of expressiv
 By bridging motion data, capture, and generation through shared representations and foundation models, Motrix aims to advance scalable, world-grounded human motion capture and generation across vision, graphics, and embodied AI.
 
 ## News
-
-- [2026-01-20] Release of [ViMoGen](https://github.com/MotrixLab/ViMoGen) (ArXiv'25)
-- [2026-01-20] 🔥🔥🔥SMLCap is now **Motrix**🔥🔥🔥 Check out our expanded repos on motion generation and human motion dataset.
+- [2026-01-20] Release of [ViMoGen](https://github.com/MotrixLab/ViMoGen) (ICLR'26)
+- [2026-01-20] 🔥🔥🔥SMPLCap is now **Motrix**🔥🔥🔥 Check out our expanded repos on motion generation and human motion dataset.
 - [2026-01-07] [PointHPS](https://github.com/MotrixLab/PointHPS) accepted to IJCV
 - [2025-10-21] [SMPLest-X](https://github.com/MotrixLab/SMPLest-X) accepted to TPAMI
 - [2025-05-15] Release of [ADHMR](https://github.com/MotrixLab/ADHMR) (ICML'25)
@@ -31,7 +30,7 @@ By bridging motion data, capture, and generation through shared representations 
 
 
 ### Motion Generation
-- [SMPL-X] [ArXiv'25] [ViMoGen](https://github.com/MotrixLab/ViMoGen): A comprehensive framework that transfers knowledge from ViGen to MoGen across data, modeling, and evaluation.
+- [SMPL-X] [ICLR'26] [ViMoGen](https://github.com/MotrixLab/ViMoGen): A comprehensive framework that transfers knowledge from ViGen to MoGen across data, modeling, and evaluation.
 - [SMPL-X] [ECCV'24] [LMM](https://github.com/MotrixLab/LMM): Large Motion Model for Unified Multi-Modal Motion Generation.
 - [SMPL-X] [NeurIPS'23] [FineMoGen](https://github.com/MotrixLab/FineMoGen): Fine-Grained Spatio-Temporal Motion Generation and Editing.
 - [SMPL] [ICCV'23] [ReMoDiffuse](https://github.com/MotrixLab/ReMoDiffuse): Retrieval-Augmented Motion Diffusion Model.
